@@ -1,0 +1,8 @@
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\bin\Debug\Grade 11 Culminating.exe
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\bin\Debug\Grade 11 Culminating.pdb
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\obj\Debug\Grade_11_Culminating.Tetris.resources
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\obj\Debug\Grade_11_Culminating.Properties.Resources.resources
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\obj\Debug\Grade 11 Culminating.exe
+C:\Users\Windows\Documents\Grade 11\Computer Science\Grade 11 Culminating\Grade 11 Culminating\obj\Debug\Grade 11 Culminating.pdb
